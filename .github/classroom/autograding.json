@@ -3,12 +3,12 @@
     {
       "name": "Test",
       "setup": "npm install",
-      "run": "node testJs.js",
-      "input": "2",
-      "output": "4",
+      "run": "npm test",
+      "input": "",
+      "output": "",
       "comparison": "included",
       "timeout": 10,
-      "points": null
+      "points": 2
     }
   ]
 }
