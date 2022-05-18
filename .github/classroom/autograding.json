@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Test i&#38;&#35;47&#59;o",
+      "setup": "",
+      "run": "node testJs.js",
+      "input": "2",
+      "output": "4",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 2
+    }
+  ]
+}
