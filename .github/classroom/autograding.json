@@ -2,8 +2,8 @@
   "tests": [
     {
       "name": "Test",
-      "setup": "",
-      "run": "npm install",
+      "setup": "npm install",
+      "run": "node testJs.js",
       "input": "2",
       "output": "4",
       "comparison": "included",
