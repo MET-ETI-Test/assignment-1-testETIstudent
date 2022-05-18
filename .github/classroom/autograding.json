@@ -9,6 +9,16 @@
       "comparison": "included",
       "timeout": 10,
       "points": 2
+    },
+    {
+      "name": "io test",
+      "setup": "npm install",
+      "run": "npm test",
+      "input": "2",
+      "output": "4",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
     }
   ]
 }
