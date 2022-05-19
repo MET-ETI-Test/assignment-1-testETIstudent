@@ -4,7 +4,7 @@ const readline = require('readline').createInterface({
 })
 
 function myFunction(value) {
-  return value * value;
+  return value * value + value;
 }
 
 function main() {
